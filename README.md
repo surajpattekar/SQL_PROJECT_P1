@@ -11,7 +11,7 @@ This project is an **end-to-end SQL case study** analyzing a retail sales datase
 
 ---
 
-## 🎯 Problem Statement
+## 🎯 Business Questions
 The company wants to answer:
 1. How many sales and unique customers do we have?  
 2. Which categories are performing the best?  
