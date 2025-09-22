@@ -54,6 +54,9 @@ WHERE transaction_id IS NULL
    OR cogs IS NULL
    OR total_sale IS NULL;
 
+![Diagram](NULL values.png)
+
+
 -- Remove NULL records
 DELETE FROM retail_sales
 WHERE transaction_id IS NULL
