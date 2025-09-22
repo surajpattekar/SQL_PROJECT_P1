@@ -21,7 +21,7 @@ The company wants to answer:
 6. How do sales differ by time of day (morning/afternoon/evening)?  
 
 ---
-
+https://github.com/surajpattekar/SQL_PROJECT_P1/blob/7927cf891423206b5edc4aa823b8b4eb85d12dd8/NULL_values.png
 ## 📊 Dataset
 The dataset contains **retail transactions** with the following fields:
 
