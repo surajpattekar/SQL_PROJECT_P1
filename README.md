@@ -65,5 +65,6 @@ WHERE transaction_id IS NULL
    OR cogs IS NULL
    OR total_sale IS NULL;
 
-![Diagram](NULL values.png)
+![image alt](https://github.com/surajpattekar/SQL_PROJECT_P1/blob/main/NULL_values.png?raw=true)
 
+[![image alt](https://github.com/surajpattekar/SQL_PROJECT_P1/blob/main/NULL_values.png?raw=true)](https://github.com/surajpattekar/SQL_PROJECT_P1/blob/main/NULL_values.png)
